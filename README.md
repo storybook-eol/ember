@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. Ember support for Storybook has moved over to [ember-integrations](https://github.com/ember-integrations/ember-storybook).
+
 # Storybook for ember
 
 Storybook is a workshop for isolated component development, documentation, and testing. It is documented extensively at https://storybook.js.org.
